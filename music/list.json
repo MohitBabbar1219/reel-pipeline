@@ -1,0 +1,42 @@
+[
+  {
+    "file_ref": "apalonbeats-trending-reels-trending-music-560387.mp3",
+    "description": "Mid-tempo (~76bpm), bright, moderate-energy pop/electronic groove. Versatile default for upbeat, everyday content that isn't strongly happy or serious either way."
+  },
+  {
+    "file_ref": "bombinsound-trending-instagram-reels-music-499599.mp3",
+    "description": "Fast (~152bpm), bright, driving electronic beat at a lower background volume. Good for quick-cut, high-energy trend content where narration still needs headroom over the beat."
+  },
+  {
+    "file_ref": "echoes_of_lumen-reel-exciting-instagram-trend-vibe-589275.mp3",
+    "description": "Fast (~128bpm house/EDM tempo), loud, bright dance-pop energy. Best for hype, exciting, high-energy topics - the most 'trend-vibe' track of the set."
+  },
+  {
+    "file_ref": "maeve-reels-catchy-reels-school-529806.mp3",
+    "description": "Very fast, loud, driving pop energy - catchy and high-tempo. Good for excited, fast-paced storytelling or anything meant to feel frantic/fun."
+  },
+  {
+    "file_ref": "poradovskyi-instagram-reels-marketing-music-469052.mp3",
+    "description": "Moderate-tempo (~86bpm), loud, but tonally darker/deeper than the others (lower spectral brightness). Less cheery, better for steady, confident, slightly more serious or business-like content."
+  },
+  {
+    "file_ref": "soundsurfer-instagram-reel-488473.mp3",
+    "description": "Long (4+ minute) loop, moderate tempo, mid/dark tone, unobtrusive. General-purpose background that won't demand attention - good default for longer or more narrative reels."
+  },
+  {
+    "file_ref": "verclub_music-instagram-reel-577327.mp3",
+    "description": "Fast (~152bpm), the loudest/punchiest track in the set. High-intensity and driving - good for hype, action, or anything that should feel urgent."
+  },
+  {
+    "file_ref": "verclub_music-reel-reels-music-571031.mp3",
+    "description": "Fast (~144bpm), loud, bright, upbeat groove. Energetic and celebratory - good for exciting, triumphant, or feel-good moments."
+  },
+  {
+    "file_ref": "verclub_music-reel-reels-music-606125.mp3",
+    "description": "Slower, laid-back tempo but still loud and reasonably bright. Confident/cool rather than frantic - good for content with swagger that doesn't need to feel rushed."
+  },
+  {
+    "file_ref": "zephiramusic-lofi-reel-588906.mp3",
+    "description": "Lo-fi, warm, quiet, moderate tempo (by far the darkest/softest track in the set). Chill, relaxed, cozy - best for reflective, calm, or low-key topics."
+  }
+]

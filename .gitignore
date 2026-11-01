@@ -1,0 +1,20 @@
+# generated reels
+output
+
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Kokoro model files (downloaded per README) and test audio from models/*.py
+models/*.onnx
+models/*.bin
+models/*.wav
+
+# local per-run cost log, appended to by generate.py
+costs.jsonl
